@@ -1,2 +1,6 @@
 .DS_Store
 .idea
+deploy_test.pem
+src/node_modules
+src/vendor
+.env
